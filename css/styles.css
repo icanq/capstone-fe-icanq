@@ -1,0 +1,31 @@
+/* reset basic elements */
+body,
+h1,
+h2,
+h3,
+p,
+form,
+input,
+button,
+select,
+textarea {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+/* 
+body {
+	font-family: "Segoe UI", "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+	line-height: 1.6px;
+	color: #333;
+	background-color: aliceblue;
+}
+
+header {
+  background-color: ;
+} */
+
+.image-product {
+	width: 150px;
+	object-fit: cover;
+}
